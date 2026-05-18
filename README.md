@@ -6,7 +6,7 @@
 
 Bilingual (German / Romanian) church website for Pfingstkirche ELIM Brunn am Gebirge — built with React, Vite, TypeScript, and Tailwind CSS.
 
-**Live:** [elim-brunn.at]((https://elim-brunn.vercel.app/))
+**Live:** [https://elim-brunn.vercel.app)
 
 ## Prerequisites
 

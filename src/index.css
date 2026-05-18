@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --elim-red: #c4121a;
+    --elim-tan: #c5b097;
+    --elim-tan-dark: #b89d7e;
+    --elim-gray: #9b9187;
+    --elim-black: #0a0a0a;
+    --elim-cream: #f5f0eb;
+  }
+
+  html {
+    font-size: 106.25%; /* 17px — etwas großzügiger als Standard-16px */
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-parchment font-body text-base leading-relaxed text-ink antialiased;
+  }
+
+  ::selection {
+    @apply bg-gold/40 text-ink;
+  }
+}

@@ -1,6 +1,12 @@
 # ELIM – Pfingstkirche Brunn am Gebirge
 
-A reverent, bilingual (German / Romanian) single-page church website built with React, Vite, TypeScript, and Tailwind CSS.
+<p align="center">
+  <img src="public/logo.png" alt="ELIM Pfingstkirche Brunn am Gebirge" width="200" />
+</p>
+
+Bilingual (German / Romanian) church website for Pfingstkirche ELIM Brunn am Gebirge — built with React, Vite, TypeScript, and Tailwind CSS.
+
+**Live:** [elim-brunn.at](https://www.elim-brunn.at/de/home_de/)
 
 ## Prerequisites
 
@@ -28,8 +34,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 | Route | Inhalt |
 |-------|--------|
-| `/` | Start — Hero & Willkommen |
-| `/glauben` | Das glauben wir |
+| `/` | Start — Hero, Willkommen, Glaube, Gottesdienste |
 | `/gottesdienste` | Gottesdienste & Zeiten |
 | `/anunturi` | Ankündigungen |
 | `/live` | Live-Übertragung |
